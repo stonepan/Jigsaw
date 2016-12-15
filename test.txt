@@ -1,2 +1,2 @@
-Add from branch merge-test(temp);
+Add from branch merge-test;
 another test from temp;
